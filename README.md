@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**drishtii7/drishtii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 👩‍💻 I’m currently enhancing my analytical skills.<br>📊 I’m diving into Data Visualization and Reporting techniques.<br>💬 Feel free to ask me about innovation, data trends, analysis methods, or tech in general!<br>📫 How to reach me: Email - drishtipatel4543@gmail.com<br>😄 Pronouns: She/Her
 
